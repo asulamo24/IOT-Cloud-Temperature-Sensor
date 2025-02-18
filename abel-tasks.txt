@@ -1,0 +1,5 @@
+Abel's Tasks:
+1. Make Restful API
+2.Set up EC2 to connect to hardware
+3. Once data is received, connect ec2 to send data to s3
+4. Host wep app on s3 to show data 
