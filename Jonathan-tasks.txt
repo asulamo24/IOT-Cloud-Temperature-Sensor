@@ -1,0 +1,7 @@
+Jonathan's Task:
+1. Get Temperature Sensor
+2. Get ESP32 Micro Controller
+3. Start wiring Temperature Sensor and ESP32 
+4. Connect ESP32 to Temperature Sensor via I2c
+5. Get temperature readings, only if the temperature readings has changed, thats when we send it over HTTPs to the cloud server.
+6. Code Server side HTTPS and understand how to connect via wifi(probably natan)7. once connected to wifi, send data to pc.
